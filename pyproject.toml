@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pypixel-drawer"
+version = "0.0.1"
+description = "Pixel drawing library using turtle"
+authors = [
+  {name="Muhammad Arshaq"}
+]
+readme = "README.md"
+requires-python = ">=3.9"
